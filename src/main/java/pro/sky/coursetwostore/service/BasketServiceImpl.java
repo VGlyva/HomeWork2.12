@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 @Service
 @SessionScope
-public class BasketServiceImpl implements BasketService {
+public class BasketServiceImpl implements BasketService  {
 
     private final List<Integer> idProducts;
 

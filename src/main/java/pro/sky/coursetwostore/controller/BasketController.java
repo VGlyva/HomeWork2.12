@@ -10,7 +10,7 @@ import pro.sky.coursetwostore.service.BasketService;
 
 import java.util.List;
 @RestController
-@RequestMapping("/order")
+@RequestMapping("/order" )
 public class BasketController {
 
     private final BasketService basketService;

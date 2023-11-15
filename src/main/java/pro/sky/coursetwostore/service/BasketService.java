@@ -4,7 +4,7 @@ import pro.sky.coursetwostore.model.Basket;
 
 import java.util.List;
 
-public interface BasketService {
+public interface BasketService  {
     Basket addProduct(Integer id);
     List<Integer> getProduct();
 }

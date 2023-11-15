@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Basket {
     private final int idProduct;
 
-    public Basket(int idProduct) {
+    public Basket(int idProduct)  {
         this.idProduct = idProduct;
     }
 
